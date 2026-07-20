@@ -1,0 +1,49 @@
+2. Cree un algoritmo que describa su rutina diaria. Use condiciones, condiciones multiples y ciclos.
+
+
+1. Mientras que reloj no llegue a las 11:30pm y no sea Viernes o Sabado
+    1. Activar la alarma de las 7AM  
+        1. Si el reloj marca las 7AM 
+            1. Cumplir rutina 
+                1. Depertarse 
+                    1. Acomodar la cama 
+                    2. Tomar agua
+                    3. salir del cuarto
+                2. Bañarse 
+                    1. Ir a la ducha 
+                    2. abrir la llave  de agua 
+                    3. tomar el jabon
+                    4. enjuagarse
+                    5. Buecar una paño
+                    6. Secarse
+                        1. Mientras que este mojado 
+                            1. Si ,
+                                1. estoy mojado secarme con el paño
+                            2. Sino, 
+                                1. Salir del baño
+                            
+                3. Hacer ejercicio
+                4. Si reloj no marca la 1pm o 4pm y es Lunes, Miercoles, Viernes 
+                    1. Revisar ruttina 
+                    2. Completar rutina 
+                5. Si reloj no marca la 1pm o 4pm y no es Lunes, Miercoles. Viernes 
+                    1. Hacer cardio 
+                6. Sino, no hacer ejercicio 
+                7. Mientras que tenga hambre y reloj no marque la 1pm o 4pm 
+                    1. Comer o tomar cafe
+                        1. mientras que reloj no marque la 1pm 
+                            1. Desayunar 
+                            2. Si reloj marca las 4pm
+                                1. Tomar cafe 
+                            3. Si reloj marca las 8pm
+                                1. Cenar
+                            4. Sino, 
+                                1. Almorzar 
+                    
+                    1. Sino, estudiar
+2. Sino, Dormir
+    1. Lavarme los dientes 
+    2. acostarme en la cama
+    3. Cerrar los ojos 
+
+Fin

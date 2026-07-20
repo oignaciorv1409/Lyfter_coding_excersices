@@ -1,0 +1,46 @@
+**Ejercicios Extra**
+
+1. Cree un algoritmo que le pida 2 números al usuario, los guarde en dos variables distintas (`primero` y `segundo`) y los ordene de menor a mayor en dichas variables.
+    1. Ejemplos:
+        1. A: 56, B: 32 → A: 32, B: 56
+        2. A: 24, B: 76 → A: 24, B: 76
+        3. A: 45, B: 12 → A: 12, B: 45
+
+Inicio
+
+1. Definir `primero`
+2. Definir `segundo`
+3. Definir `numero_menor`
+4. Definir `numero_mayor`
+5. `numero_menor`  = 0
+6. `numero_mayor`  = 0
+7. Mostrar <“Ingrese el primer numero”>
+8. Perdir `primero` 
+9. Mostrar <“Ingrese el segundo numero”>
+Pedir `segundo`
+10. Si,
+    1. (`primero` > `segundo`) entonces: 
+        1. `numero_mayor` = `primero` 
+        
+         Sino, 
+        
+        1. (`primero`  <  `segundo`) entonces: 
+            
+            i. `numero_menor` = `primero`
+            
+    2. Si, 
+    3. (`segundo`> `primero` ) entonces: 
+        1. `numero_mayor` = `segundo`
+        
+         Sino, 
+        
+        1. (`segundo`  <  `primero`) entonces: 
+            
+            i. `numero_menor` = `segundo`
+            
+    4. Finsi
+    
+11. Mostrar `numero_mayor`
+12. Mostrar `numero_menor`
+
+Fin

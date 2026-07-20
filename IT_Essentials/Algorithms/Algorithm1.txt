@@ -1,0 +1,75 @@
+<aside>
+💪🏽 Ejercicios
+
+1. Cree un algoritmo para ver un video en Youtube. Sea lo más especifico posible.
+    
+    Respuesta:
+    
+    Inicio (v1)
+    
+    1. Navegar a youtube.com 
+    2. Buscar el video y reproducir el video 
+    3. Salir de Youtube.com
+    
+    Fin
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    Inicio (v1.1)
+    
+    1. Si tiene computadora navegar a youtube.com.
+        1. Encender la computadora 
+        2. Abrir Google Chrome
+        3. Escribir youtube.com en la barra de busqueda y presionar “Enter”
+    
+    Sino: abrir Youtube app desde su smartphone, tablet o smartTV.
+    
+    Sino:  Buscar una computadora, smarTV o dispositvo movil 
+    
+    1. Buscar el video 
+        1. Si encuentra un video que llame su atencion desde Inicio
+            1. Hacer click en el video 
+        2. Sino, buscar un video en especifico desde el buscador 
+            1. Hacer click en el video
+    2. Salir de youtbe 
+        1. Una vez no quiera ver mas videos salir de youtube.com/youtube app 
+    
+    Fin
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    ---
+    
+    Inicio (v2.0)
+    
+    1. Si tiene computadora o smartphone o smart TV 
+        1. Acceder a youtube app o youtube.com 
+    2. Sino, buscar una computadora o dispositivo movil
+        
+        
+        1. Mientras que algun video llame su interes o le guste
+            1. Hacer click en el video 
+                1. Si el video le gusta  o  le interesa 
+                2. Ver el video
+                3. Sino, 
+                    1. salir de youtube app o youtube.com
+        
+        Fin
+
+    
